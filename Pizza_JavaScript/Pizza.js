@@ -39,7 +39,7 @@ function getReceipt()
     getTopping(runningTotal,text1);
 };
 
-//This function defines the getToppig function
+//This function defines the getTopping function
 function getTopping(runningTotal, text1)
 {
     var toppingTotal = 0;
