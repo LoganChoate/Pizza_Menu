@@ -1,0 +1,59 @@
+
+/*This code style sthe background of the pizza menu*/
+#menuBG {
+    width: 400px;
+    height: 470px;
+    margin:10px auto;
+}
+
+/*This code styles the form menu*/
+#frmMenu {
+    width: 400px;
+    height: 200px;
+}
+
+/*This code styles the totalPrice element*/
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 0, auto;
+    float: right;
+}
+
+/*This code styles the left aligned elements*/
+.left {
+    width: 200px;
+    height:200px;
+    float:left;
+}
+
+/*This code styles the right aligned elements*/
+.right {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+/*This code styles the showText element*/
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+/*This code styles the cart element*/
+#cart {
+    top:0;margin:0px auto;
+    width: 400px;
+    height: 200px;
+}
+
+/*This code styles the btnOrder element*/
+#btnOrder {
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height:40px;
+}
+
+
