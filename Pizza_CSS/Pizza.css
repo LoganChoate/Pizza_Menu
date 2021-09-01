@@ -27,6 +27,13 @@
     float:left;
 }
 
+/*This code styles the center aligned elements*/
+.center {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
 /*This code styles the right aligned elements*/
 .right {
     width: 200px;
@@ -54,6 +61,8 @@
     margin: 10px 0px 0px 100px;
     width: 100px;
     height:40px;
+    display: block;
+    margin: 25px auto;
 }
 
 /*This code makes the body background color blue*/
