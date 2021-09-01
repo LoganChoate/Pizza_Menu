@@ -16,7 +16,7 @@
 #totalPrice {
     width: 200px;
     height: 190px;
-    margin: 0, auto;
+    margin: 0 auto;
     float: right;
 }
 
@@ -56,4 +56,25 @@
     height:40px;
 }
 
+/*This code makes the body background color blue*/
+body {
+    background-color: blue;
+}
 
+/*This code assigns a font family and color to h1 elements*/
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+}
+
+/*This code adds a font family and a color to thh3 elements*/
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+}
+
+/*This code assigns a color and font familym to the div element*/
+div {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: mediumspringgreen;
+}
